@@ -8,16 +8,16 @@ sdfkjsngfkhj
 
 ## Persona & Empathy Maps
 ### Persona 1: Ralph Martin
-![Persona Map for Ralph Martin](persona1.png)  
+![Persona Profile for Ralph Martin](persona1.png)  
 
 #### Ralph's Empathy Map
-[insert empathy map here]
+![Empathy Map for Ralph Martin](empathy1.png)  
 
 ### Persona 2: Kimberley Chen
-![Persona Map for Kimberley Chen](persona2.png)  
+![Persona Profile for Kimberley Chen](persona2.png)  
 
 #### Kimberley's Empathy Map
-[insert empathy map here]
+![Empathy Map for Kimberley Chen](empathy2.png)  
 
 ## User Scenarios & Journey Maps
 ### Ralph's Scenario & Journey Map
