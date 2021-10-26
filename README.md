@@ -43,3 +43,4 @@ As it is now, the "What you can do to reduce greenhouse gases" pages on the webs
 ![Journey Map for Kimberley Chen](journey2.png)  
 
 ## Reflection
+- Creating personas for this assignment took a lot more consideration and time than I was expecting. I think that envisioning how different people may use this website has helped me identify parts that are lacking. Previously, I said that the audience for this website is everyone, as the environment is something that affects everyone. However, while thinking up personas, I realized that there is probably a specific kind of person that would actually navigate to the government website for the department of ecology. Here, I hope I have captured a portion of what those people may seem like. Though I tried my best to envision the target population and came up with these personas, I would like to do more in-depth (actual) user research to ensure that the personas I have created are realistic.
