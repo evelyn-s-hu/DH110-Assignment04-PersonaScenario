@@ -7,33 +7,33 @@
 sdfkjsngfkhj
 
 ## Persona & Empathy Maps
-### Persona 1: First Last
-[insert pic of persona here]
+### Persona 1: Ralph Martin
+![Persona Map for Ralph Martin](persona1.PNG)  
 
-#### First's Empathy Map
+#### Ralph's Empathy Map
 [insert empathy map here]
 
-### Persona 2: First Last
-[insert pic of persona here]
+### Persona 2: Kimberley Chen
+![Persona Map for Kimberley Chen](persona2.PNG)  
 
-#### Second's Empathy Map
+#### Kimberley's Empathy Map
 [insert empathy map here]
 
 ## User Scenarios & Journey Maps
-### First's Scenario & Journey Map
-#### Why First is using this product
+### Ralph's Scenario & Journey Map
+#### Why Ralph is using this product
 > Insert blurb here
-#### How First is using this product
+#### How Ralph is using this product
 > ssdfdh
-#### First's Journey Map
+#### Ralph's Journey Map
 [insert journey map here]
 
-### Second's Scenario & Journey Map
-#### Why Second is using this product
+### Kimberley's Scenario & Journey Map
+#### Why Kimberley is using this product
 > Insert blurb here
-#### How Second is using this product
+#### How Kimberley is using this product
 > ssdfdh
-#### Second's Journey Map
+#### Kimberley's Journey Map
 [insert journey map here]
 
 ## Reflection
